@@ -1,0 +1,19 @@
+/*
+    Document   : override
+    Created on : <date>
+    Author     : <author>
+    Description:
+        This is where any of your application specific styles should be included
+*/
+
+.epf-home-panel-global {
+  width: 400px;
+  height: 300px;
+  background-color: orange;
+  margin: 10px; }
+
+.epf-home-panel {
+  width: 400px;
+  height: 300px;
+  background-color: purple;
+  margin: 10px; }
